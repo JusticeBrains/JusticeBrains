@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JusticeBrains
-- 👀 I’m interested in Pythoon, FastAPI and Django
+- 👀 I’m interested in Python, FastAPI and Django
 - 🌱 I’m currently learning FastAPI
 - 💞️ I’m looking to collaborate on awesome python projects
 - 📫 How to reach me mailto:justicemclean@proton.me
