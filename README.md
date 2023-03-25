@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JusticeBrains
 - 👀 I’m interested in Python, and Django
 - 🌱 I’m currently on a Rustacean journey
-- 💞️ I’m looking to collaborate on awesome python projects
+- 💞️ I’m looking to collaborate on awesome python and rust projects
 - 📫 How to reach me mailto:justicemclean@proton.me
 
 <!---
