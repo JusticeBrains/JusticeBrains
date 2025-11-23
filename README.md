@@ -22,6 +22,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django" />
     </td>
     <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="50" alt="fastapi" />          
+    </td>
+    <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="50" alt="go" />
     </td>
     <td align="center" width="90">
